@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Wisata</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Banua Oge (Sou Raja)</item>
+        <item>Bukit Doda Indah</item>
+        <item>Danau Sibili</item>
+        <item>Gong Perdamaian</item>
+        <item>Kawasan Wisata Religi</item>
+        <item>Museum Sulawesi Tengah</item>
+        <item>Taman Nasional Palu</item>
+        <item>Tugu Gerhana Matahari</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Banua Oge atau Souraja adalah istana dari Kerajaan Palu pada masa sebelum kemerdekaan. Kata Souraja dapat diartikan rumah besar, merupakan rumah kediaman tidak resmi dari manggan atau raja beserta keluarga-keluarganya. Rumah orang biasa atau rakyat kebanyakan meskipun bentuk dan ukurannya sama dengan Souraja.
+
+Bangunan Souraja berbentuk rumah panggung yang ditopang sejumlah tiang kayu balok persegi empat dari kayu keras seperti kayu ulin, bayan, atau sejenisnya. Atapnya berbentuk piramida segitiga, bagian depan dan belakang atapnya ditutup dengan papan yang dihiasi dengan ukiran disebut panapiri dan pada ujung bubungan bagian depan dan belakang diletakkan mahkota berukir disebut bangko-bangko. Seluruh bahan bangunan mulai dari lantai, dinding balok-balok terbagi atas tiga ruangan</item>
+        <item>Bukit Doda terletak di gunung gawalise tepatnya di Kabupaten Sigi. Panorama alamnya cukup memanjakan mata. Puncak bukit Doda ini bisa juga disebut dengan bukit Bintang. Lokasi Bukit Indah Doda kira-kira 15-20 menit dari Kota Palu, tergantung dari mana berangkatnya. Misalnya, berangkat dari Palu Selatan daerah Balaikota atau pusat kota menuju sekitar Jalan Gunung Gawalise, kemudian berbelok menuju arah SMK N 4 Palu (SMK N 4 Palu ini jadi patokannya), kemudian lurus saja, jalan menuju Villa Bukit Indah Doda ini menanjak kira- kira-kira 1 km. Lokasi villa berada di sebelah kiri jalan setelah masjid Al Askar. Karena tidak ada transportasi umum yang bisa digunakan, menurut pendapat lebih baik menggunakan kendaraan pribadi, baik motor ataupun mobil agar bisa lebih leluasa menikmati waktu di villa ini. Lokasi parkiran yang cukup luas, sehingga tidak perlu khawatir.</item>
+        <item>Danau Sibili merupakan danau alam yang terletak di Kelurahan Pantoloan, Kecamatan Tawaeli, Kota Palu. Danau ini merupakan salah satu objek wisata kebanggaan masyarakat Tawaeli karena pemandangannya yang indah. Danau yang terletak 24 km di utara pusat Kota Palu ini awalnya merupakan danau yang dijadikan tempat pemancingan ikan oleh masyarakat sekitar. Tetapi, karena seringnya pengunjung yang datang dari luar Kecamatan Tawaeli untuk datang berwisata akhirnya danau ini dijadikan salah satu objek wisata andalan di kecamatan tersebut. Danau Sibili yang indah telah menjadi tempat wisata bagi masyarakat sekitar maupun dari luar kota Palu. Wisata yang menjadi andalan di sini adalah wisata memancing dengan berbagai jenis ikan seperti mas, bawal, mujair, gabus, dll. Di pinggir danau, ada sarana yang dapat digunakan bagi Anda yang ingin menikmati keindahan danau, seperti perahu tradisional</item>
+        <item>Gong Perdamaian Nusantara atau Monumen Nosarara Nosabatutu yang dalam Bahasa Kaili (suku asli di Sulawesi Tengah) memiliki arti bersaudara dan bersatu. Di Kota Palu pembangunan monumen Gong Perdamaian Nusantara ini dilatar belakangi oleh keprihatinan atas terjadinya kekerasan sosial dan konflik di wilayah Sulawesi Tengah seperti Poso, Sigi, dan wilayah lainnya yang telah menimbulkan duka mendalam bagi masyarakat korban kekerasan sosial dan konflik di wilayah tersebut, sehingga dirasa perlu membangun simbol-simbol perdamaian di kota Palu dengan tujuan untuk mengingatkan kembali masyarakat dan generasi berikutnya agar tidak terulang lagi kekerasan sosial dan konflik di Sulawesi Tengah.</item>
+        <item>Kawasan ini terletak di sepanjang Jalan Sis Aljufrie, Kelurahan Boyaoge, Kecamatan Tatanga dan Kelurahan Kamonji, Kecamatan Palu Barat. Dijalan ini terdapat berbagai macam objek wisata belanja dan objek wisata Religi. Objek wisata perbelanjaan yang ada disini adalah Pertokoan Palu Plaza. Di sini masyarakat kota Palu menjual berbagai macam kuliner, pakaian dan oleh - oleh. Objek wisata Religi di kawasan ini terletak di depan pertokoan Palu Plaza, yaitu Yayasan AL Khairaat Pusat yang merupakan Organisasi Islam Terbesar di Indonesia Timur. Di sana terdapat makam Idrus Bin Salim Al Jufrie (SIS AL JUFRIE) Pendiri AL Khairaat, Masjid AL Khairaat, Masjid Nurul Khairaat, dan Masjid Nur Sa\'adah, juga beberapa sekolah berbasis Islam.</item>
+        <item>Museum ini adalah museum terbesar di Sulawesi Tengah, terletak di Palu Barat. Di museum ini terdapat berbagai macam replika baju adat dari semua kabupaten dan kota yang ada di Sulawesi Tengah, sejarah mengenai Sulawesi Tengah dan lain lain. Yang menarik dari museum ini adalah batu megalith berbentuk manusia yang dibuat oleh nenek moyang suku Kaili yang berasal dari Lembah Napu yang bentuknya hampir mirip dengan batu megalith berbentuk manusia di Pulau Paskah, Samudera Pasifik.</item>
+        <item>Taman Nasional Palu merupakan salah satu ikon Kota Palu, ibu kota Provinsi Sulawesi Tengah. Taman yang diresmikan pada kamis, 29 Desember 2022 menyediakan ruang terbuka hijau (RTH) untuk masyarakat ini terletak di Jalan Hasanuddin, Palu. Ruang terbuka hijau ini memiliki berbagai manfaat antara lain sebagai energi kota, sebagai tempat interaksi warga kota, dan juga pendukung estetika kota. Di dalam taman nasional antara lain terdapat kolam air melingkar yang di tengahnya berdiri sebuah tugu berbentuk lingkaran spiral. Tugu ini menggambarkan putaran waktu yang bermakna bahwa sejak awal Kota Palu berdiri akan terus bergerak dan tidak akan kembali bertemu pada gerakan putaran awalnya. Kelebihan Taman Nasional Palu adalah memiliki makna sejarah. Disinilah tempat dikumandangkannya deklarasi Kota Palu sebagai bagian Negara Kesatuan Republik Indonesia (NKRI) pada sekitar 600 an tahun yang lalu.</item>
+        <item>Tugu Gerhana Matahari berada di anjungan nusantara tepatnya di sekitar Pantai Teluk Palu.  Tugu ini diresmikan tanggal 9 maret 2016. Tingginya sekitar 7 meter. Pada bagian puncaknya memiliki bentuk seperti matahari. Adapun alasan kenapa Teluk Palu dipilih sebagai tempat dibangunnya Tugu Gerhana Matahari hal ini karena lokasi tersebut sangat strategis, dan merupakan lokasi utama untuk mengamati gerhana matahari total di Sulawesi tengah, pada tahun 2016 silam. Bahkan, nih, saat moment langka tersebut banyak sekali wisatawan mancanegara yang datang ke Palu dan diminta untuk membubuhkan tanda tangan pada monument dalam rangka peresmian. Pada moment tersebut selain Sulawesi Tengah, gerhana matahari total juga melintasi kawasan Sumatera dan bagian selatan Kalimatan serta Maluku Utara.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/banua_oge</item>
+        <item>@drawable/doda</item>
+        <item>@drawable/danau_sibili</item>
+        <item>@drawable/gong_perdamaian</item>
+        <item>@drawable/kawasan_religi</item>
+        <item>@drawable/museum</item>
+        <item>@drawable/taman_nasional_palu</item>
+        <item>@drawable/tugu_gerhana_matahari</item>
+    </integer-array>
+</resources>
